@@ -29,7 +29,7 @@
 * **Non-isolated circuit — dangerous mains voltage is present.**
 * Do not touch the circuit while connected to 220V AC.
 * Use an **X2-rated capacitor** for C4.
-* Do not connect the output to USB, computers, or other user-accessible equipment.
+* Do not connect the output to USB, computers or other user-accessible equipment.
 * Use a proper isolated AC-DC supply when electrical isolation is required.
 
 > **Warning:** Working with mains voltage can cause serious injury or death. Build and test only with proper knowledge and safety precautions.
